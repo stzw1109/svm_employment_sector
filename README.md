@@ -5,4 +5,4 @@
 - Use 'pip install -r requirements.txt' command line
 
 ## Step 2
-- Just run the "swm_employment.ipynb" notebook code
+- Just run the "svm_employment.ipynb" notebook code
